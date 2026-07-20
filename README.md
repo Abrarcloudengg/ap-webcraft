@@ -161,12 +161,11 @@ or use Live Server in VS Code.
 📧 abrarpatel868@email.com
 
 🔗 LinkedIn
+https://www.linkedin.com/in/abrar-patel-93083340a/
 
-https://www.linkedin.com/in/abrar-patel-589a01258/
 
 🐙 GitHub
-
-https://github.com/Abrarpat
+https://github.com/Abrarcloudengg/ap-webcraft
 
 ---
 
